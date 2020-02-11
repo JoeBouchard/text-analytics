@@ -1,0 +1,1 @@
+{False: 12, 'TOTAL': 31, 'Like': 19}
